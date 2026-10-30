@@ -4,8 +4,12 @@ Data and code for *History Selection and Teacher Judgments in LLM Mathematics
 Tutoring With Matched Input Budgets* by Tangfu Cen. The package contains teacher
 judgment tables, four system prompts and scripts for the reported analyses.
 
-Version 1.0.1 updates the documentation. Research data, prompts and code are
-unchanged from version 1.0.0.
+Version 1.0.2 consolidates the declarations. Research data, prompts and code are
+unchanged from version 1.0.1.
+
+Download [version 1.0.2](mbhc-tutoring-history-v1.0.2.zip) and extract the archive
+before running the commands below. The declarations are also available in
+[DECLARATIONS.md](DECLARATIONS.md).
 
 ## Reproduce the analyses
 
@@ -53,8 +57,9 @@ judgments limit comparisons across rounds. Numerical reproduction cannot
 establish rating independence, transcription accuracy or pedagogical validity.
 Labels were not changed for release.
 
-The diagnostic tables contain AI-assisted categorical coding without independent
-teacher validation. Categories may overlap. The private source mapping is
+The diagnostic tables contain post-review categorical coding without independent
+teacher validation. Categories may overlap. The workflow and assistance are
+disclosed in DECLARATIONS.md. The private source mapping is
 omitted, so the per-action table alone cannot reconstruct transitions across
 seeds. Source text is also needed to assess cutpoints and support semantics or
 reconstruct complete model inputs. The synthetic selector tests use invented
