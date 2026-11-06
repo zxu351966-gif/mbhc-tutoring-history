@@ -7,7 +7,7 @@ judgment tables, four system prompts and scripts for the reported analyses.
 Version 1.0.2 consolidates the declarations. Research data, prompts and code are
 unchanged from version 1.0.1.
 
-Download [version 1.0.2](mbhc-tutoring-history-v1.0.2.zip) and extract the archive
+Download [mbhc-tutoring-history.zip] and extract the archive
 before running the commands below. The declarations are also available in
 [DECLARATIONS.md](DECLARATIONS.md).
 
