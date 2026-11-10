@@ -4,10 +4,9 @@ Data and code for *History Selection and Teacher Judgments in LLM Mathematics
 Tutoring With Matched Input Budgets* by Tangfu Cen. The package contains teacher
 judgment tables, four system prompts and scripts for the reported analyses.
 
-Version 1.0.2 consolidates the declarations. Research data, prompts and code are
-unchanged from version 1.0.1.
+Version 1.0.3 reorganizes the analysis code and adds a reading guide. Research data, prompts and numerical reference values are unchanged from version 1.0.2. The archive includes the CHANGELOG.md required by its integrity manifest.
 
-Download (mbhc-tutoring-history.zip)and extract the archive
+Download [mbhc-tutoring-history.zip](mbhc-tutoring-history.zip) and extract the archive
 before running the commands below. The declarations are also available in
 [DECLARATIONS.md](DECLARATIONS.md).
 
